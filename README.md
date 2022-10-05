@@ -16,8 +16,6 @@
   </body> 
 </html>
 
-</head> 
-<body>
   <h2> <b>Register Here</b> </h2>
   <form>
     <input type="text" placeholder="name" ><br>
